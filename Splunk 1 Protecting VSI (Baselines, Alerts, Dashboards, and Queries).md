@@ -8,8 +8,12 @@ As SOC analysts, you are tasked with using Splunk to monitor potential attacks o
 **You've been provided the following logs:**
 
 **Windows Server Logs:** This server contains intellectual property of VSI's next-generation virtual reality programs.
+	
+Sample File: [windows_server_logs.csv](<Resources/windows_server_logs.csv> "Windows Server Logs File")
 
-**Apache Server Logs:** This server is used for VSI's main public-facing website vsi-company.com.
+Apache Server Logs: This server is used for VSI's main public-facing website vsi-company.com.
+	
+**Sample File:** [apache_logs.txt](<Resources/apache_logs.txt> "Apache Logs File")
 
 ***
 
