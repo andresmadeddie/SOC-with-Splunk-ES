@@ -1,7 +1,5 @@
 # SOC with Splunk ES
 
-![4](/Images/2/8.png)
-
 ## About
 
 This project covers three scenarios:
@@ -11,6 +9,8 @@ Protecting: This project uses Splunk and the log history provided by the network
 Defending:  Live attack. Using Splunk to identify targets, sources, and impact.
 
 Lesson learned: Design mitigation strategies to protect servers from future attacks.
+
+![4](/Images/2/8.png)
 
 ## The Narrative behind the project
 
