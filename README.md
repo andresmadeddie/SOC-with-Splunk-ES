@@ -4,11 +4,11 @@
 
 This project covers three scenarios:
 
-Protecting: This project uses Splunk and the log history provided by the networking team to create baselines to set Alerts, Automated Reports, and a Dashboard to detect suspicious activity at the Apache and Windows servers.
+**Protecting:** This project uses Splunk and the log history provided by the networking team to create baselines to set Alerts, Automated Reports, and a Dashboard to detect suspicious activity at the Apache and Windows servers.
 
-Defending:  Live attack. Using Splunk to identify targets, sources, and impact.
+**Defending:**  Live attack. Using Splunk to identify targets, sources, and impact.
 
-Lesson learned: Design mitigation strategies to protect servers from future attacks.
+**Lesson learned:** Design mitigation strategies to protect servers from future attacks.
 
 ![4](/Images/2/8.png)
 
@@ -34,7 +34,6 @@ You are tasked with using your findings to suggest mitigation strategies
 
 | | |
 | -- | -- |
-| ![4](/Images/3/4.png) | ![4](/Images/2/18.png) |
+| ![4](/Images/3/4.png) | ![4](/Images/2/9.png) |
 
 
-![4](/Images/2/9.png)
