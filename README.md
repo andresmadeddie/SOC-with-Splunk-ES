@@ -13,7 +13,7 @@
 
 This project contains two different cases:
 
-- The VSI case. It covers three different scenarios in detail.
+- VSI case. It covers three different scenarios in detail.
 - Vandalay case. It covers a similar scope as the previous case, but briefly. 
 
 ## VSI
