@@ -11,7 +11,7 @@ Vandalay:
 
 ![4](/Images/2/8.png)
 
-## About
+## About the project
 
 This project contains two different cases:
 
