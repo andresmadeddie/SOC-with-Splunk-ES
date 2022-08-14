@@ -1,7 +1,7 @@
 # Splunk 3: Protecting VSI from Future Attacks (Recommendations)
 ## Scenario
 
-Previously, ASOC and monitored attacks from JobeCorp was setted. Now, you will need to design mitigation strategies to protect VSI from future attacks.
+Previously, A SOC and monitored attacks from JobeCorp was setted. Now, you will need to design mitigation strategies to protect VSI from future attacks.
 
 You are tasked with using your findings to suggest mitigation strategies.     
 
