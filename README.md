@@ -17,42 +17,42 @@ This project contains two different cases:
 - Firstly, the VSI case. It covers three different scenarios in detail.
 - Secondly, an additional project called the Vandalay case. It covers a similar scope as the previous case, but briefly. 
 
-    ## VSI
+## VSI
 
-    - ## VSI's scenarios:
+- ## VSI's scenarios:
 
-        1. **Protecting:** This project uses Splunk and the log history provided by the networking team to create baselines to set Alerts, Automated Reports, and a Dashboard to detect suspicious activity at the Apache and Windows servers.
+    1. **Protecting:** This project uses Splunk and the log history provided by the networking team to create baselines to set Alerts, Automated Reports, and a Dashboard to detect suspicious activity at the Apache and Windows servers.
 
-        2. **Defending:**  Live attack. Using Splunk to identify targets, sources, and impact.
+    2. **Defending:**  Live attack. Using Splunk to identify targets, sources, and impact.
 
-        3. **Lesson learned:** Design mitigation strategies to protect servers from future attacks.
+    3. **Lesson learned:** Design mitigation strategies to protect servers from future attacks.
 
-    - ## **The Narrative behind the VSI case**
-    
-        VSI, a company that designs virtual reality programs for business, has heard rumors that a competitor may be launching cyberattacks against them. 
+- ## **The Narrative behind the VSI case**
 
-        As SOC analysts, you are tasked to use Splunk to monitor potential attacks on your systems and applications. Your Networking team has provided past logs to help you develop baselines and create reports, alerts, and dashboards.
+    VSI, a company that designs virtual reality programs for business, has heard rumors that a competitor may be launching cyberattacks against them. 
 
-        Later, VSI experienced several cyberattacks, likely from their adversary JobeCorp. Fortunately, your SOC team had set up several monitoring solutions to help VSI quickly identify what was attacked. These monitoring solutions will also help VSI create mitigation strategies to protect the organization. Now, you will need to design mitigation strategies to protect VSI from future attacks.
+    As SOC analysts, you are tasked to use Splunk to monitor potential attacks on your systems and applications. Your Networking team has provided past logs to help you develop baselines and create reports, alerts, and dashboards.
 
-        You are tasked with using your findings to suggest mitigation strategies
+    Later, VSI experienced several cyberattacks, likely from their adversary JobeCorp. Fortunately, your SOC team had set up several monitoring solutions to help VSI quickly identify what was attacked. These monitoring solutions will also help VSI create mitigation strategies to protect the organization. Now, you will need to design mitigation strategies to protect VSI from future attacks.
 
-    ## Vandalay
+    You are tasked with using your findings to suggest mitigation strategies
 
-    - ## VSI's scenarios:
+## Vandalay
 
-        1. **Analyzing the Impact of the DDOS Attack:** Determine the impact of a DDOS attack.
+- ## VSI's scenarios:
 
-        2. **Are We Vulnerable?:** Report about vulnerabilities found with Nessus's data.
+    1. **Analyzing the Impact of the DDOS Attack:** Determine the impact of a DDOS attack.
 
-        3. **Drawing the Baseline:** Analyze logs from a brute-force attack and determine baselines.
+    2. **Are We Vulnerable?:** Report about vulnerabilities found with Nessus's data.
 
-    - ## **The Narrative behind the Vandalay case**
-        As the worldwide leader in importing and exporting, Vandalay Industries has been the target of many adversaries attempting to disrupt their online business. 
+    3. **Drawing the Baseline:** Analyze logs from a brute-force attack and determine baselines.
 
-        Vandaly has experienced DDOS attacks, Brute-force attacks, and low download/upload speed. Moreover, Vandaly uses Nessus to scan for vulnerabilities in its servers. 
+- ## **The Narrative behind the Vandalay case**
+    As the worldwide leader in importing and exporting, Vandalay Industries has been the target of many adversaries attempting to disrupt their online business. 
 
-        As a team of Vandaly's SOC, you are required to create baselines, alerts, and reports to help protect the company.
+    Vandaly has experienced DDOS attacks, Brute-force attacks, and low download/upload speed. Moreover, Vandaly uses Nessus to scan for vulnerabilities in its servers. 
+
+    As a team of Vandaly's SOC, you are required to create baselines, alerts, and reports to help protect the company.
 
 
 
