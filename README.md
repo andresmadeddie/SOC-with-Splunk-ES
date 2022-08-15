@@ -7,14 +7,14 @@
 | | [Splunk 3 Protecting VSI from Future Attacks (Recommendations)](/Splunk%203%20Protecting%20VSI%20from%20Future%20Attacks%20(Recommendations).md) |
 | Vandalay: | [Splunk Analyzing Impact, vulnerability and drawing Baselines for alerts](/Splunk%20Analyzing%20Impact%2C%20vulnerability%20and%20drawing%20Baselines%20for%20alerts.md) |
 
-![4](/Images/2/8.png)
-
 ## About the project
 
 This project contains two different cases:
 
 - VSI case. It covers three different scenarios in detail.
 - Vandalay case. It covers a similar scope as the previous case, but briefly. 
+
+![4](/Images/2/8.png)
 
 ## VSI
 
