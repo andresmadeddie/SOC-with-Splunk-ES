@@ -1,7 +1,7 @@
 # SOC with Splunk ES
 
-|||
-| --- | --- |
+| Project ||
+| ---| --- |
 | VSI: | [Splunk 1 Protecting VSI (Baselines, Alerts, Dashboards, and Queries)](/Splunk%201%20Protecting%20VSI%20(Baselines%2C%20Alerts%2C%20Dashboards%2C%20and%20Queries).md) |
 | | [Splunk 2 Defend Your SOC (Attack Detection)](/Splunk%202%20Defend%20Your%20SOC%20(Attack%20Detection).md) |
 | | [Splunk 3 Protecting VSI from Future Attacks (Recommendations)](/Splunk%203%20Protecting%20VSI%20from%20Future%20Attacks%20(Recommendations).md) |
